@@ -7,12 +7,13 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Prueba</name>
+    <name>Solo frases</name>
 
     <description>
-        Prueba app Curso
+        Pequeña y básica App para guardar frases célebres
+    </description>
 
-    <author href="http://fsmanagersite.uphero.com" email="acebedo.hidalgo.jason@gmail.com">
+    <author href="http://fsmanagersite.uphero.com" email="fans2606@gmail.com">
         web
     </author>
 
